@@ -1,3 +1,4 @@
 # Sync-Expert-Remote-Edition-SyncEXPwan-
 Sync Expert Remote Edition is a remote control and remote assistance software that supports both local area networks and the Internet. It offers unparalleled convenience, allowing you to perform every conceivable synchronization task on client computers, making it particularly suitable for professionals who manage multiple computers.
 Unfortunately, the free plan is limited to 20 users. We welcome like-minded individuals from around the world to join us in analyzing and researching its verification restriction mechanism. Since 2025, I have been working to overcome this 20-user limit but have not yet succeeded, and I hope to benefit from your valuable insights and experience!
+Official website: http://www.tbzj.top/prodwan.asp
